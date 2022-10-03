@@ -1,0 +1,23 @@
+.loadbutton{
+    height: 2rem;
+}
+
+#load{
+    display: inline;
+}
+#reload{
+    display: none;
+}
+
+button{
+    margin: auto;
+}
+table, th, td{
+    border: 1px solid #333;
+}
+
+
+thead {
+    background-color: rgb(173, 118, 154);
+    color: rgb(17, 14, 11);
+}
